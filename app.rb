@@ -26,3 +26,7 @@ end
 get '/aprediz da progamacao' do   
    '<h1>Franscisco Daniel é um novato na area de informatica</h1>'
 end
+
+get '/curso' do
+  '<h1>Ruby</h1>'
+end 
