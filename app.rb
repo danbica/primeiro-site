@@ -30,3 +30,7 @@ end
 get '/curso' do
   '<h1>Ruby</h1>'
 end 
+
+get '/corrida' do 
+  '<h9>Daniel é o melhor no futebol</h9>'
+end
