@@ -11,3 +11,7 @@ end
 get '/daniel' do
   '<h1> Daniel</h1>'
 end
+
+get '/Daniel' do
+  '<h3> Corithians <h3>'
+end
