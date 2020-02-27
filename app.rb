@@ -7,7 +7,7 @@ get '/' do
 end
 
 get '/luan' do 
-  '<h1>Luan é o bichão!!!!!</h1>'
+  '<h1>Luan é o cara!!!!!</h1>'
 end
 
 get '/daniel' do
