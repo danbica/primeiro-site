@@ -23,6 +23,6 @@ get '/corinthians' do
     Foi fundado como uma equipe de futebol no dia 1 de setembro de 1910 por um grupo de operários do bairro Bom Retiro.</p>'
 end
 
-get '/Aprediz da progamação' do 
+get '/aprediz da progamacao' do   
    '<h1>Franscisco Daniel é um novato na area de informatica</h1>'
 end
