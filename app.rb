@@ -32,5 +32,5 @@ get '/curso' do
 end 
 
 get '/corrida' do 
-  '<h9>Daniel é o melhor no futebol</h9>'
+  '<h100>Daniel é o melhor no futebol</h100>'
 end
