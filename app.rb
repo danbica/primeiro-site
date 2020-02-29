@@ -34,3 +34,7 @@ end
 get '/corrida' do 
   '<h100>Daniel é o melhor no futebol</h100>'
 end
+
+get '/vida' do
+  '<h3>Viva cada momento como se fosse o ultimo! :)</h3>'
+end
