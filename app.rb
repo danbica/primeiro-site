@@ -8,10 +8,6 @@ end
 
 get '/luan' do 
   '<h1>Luan é o cara!!!!!</h1>'
-  <script>
-  var nome = window.prompt('Qual seu nome?')
-  window.alert('É um grande prazer ter a sua visita, ' + nome +'!')
-  </script>
 end
 
 get '/daniel' do
